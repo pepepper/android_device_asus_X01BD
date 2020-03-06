@@ -6,4 +6,4 @@ ro.product.name=WW_X01BD
 
 ro.board.platform=sdm660
 ro.product.board=sdm660
-ro.build.version.security_patch=2020-02-05
+
