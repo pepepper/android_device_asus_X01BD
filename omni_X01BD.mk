@@ -48,6 +48,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sys.usb.rmnet.func.name=rmnet_bam
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="sdm660_64-user 9 PKQ1 1162 release-keys"
+    PRIVATE_BUILD_DESC="sdm660_64-user 9 PKQ1 1457 release-keys"
 
-BUILD_FINGERPRINT := asus/WW_X01BD/ASUS_X01BD_1:9/PKQ1/16.2017.1905.065-20190507:user/release-keys
+BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
