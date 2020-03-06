@@ -46,8 +46,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sys.usb.controller=a800000.dwc3 \
     sys.usb.rndis.func.name=rndis_bam \
     sys.usb.rmnet.func.name=rmnet_bam
-PLATFORM_SECURITY_PATCH_OVERRIDE := 2020-02-05
-VENDOR_SECURITY_PATCH := 2019-12-05
+PLATFORM_SECURITY_PATCH_OVERRIDE := "2020-02-05"
+VENDOR_SECURITY_PATCH := "2019-12-05"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="sdm660_64-user 9 PKQ1 1457 release-keys"
