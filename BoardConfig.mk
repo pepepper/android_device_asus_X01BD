@@ -87,5 +87,5 @@ TW_EXCLUDE_TWRPAPP := true
 
 TARGET_SYSTEM_PROP := device/asus/X01BD/system.prop
 PLATFORM_SECURITY_PATCH := "2020-02-05"
-TW_CRYPTO_USE_SYSTEM_VOLD := qseecomd hwservicemanager keymaster-3-0
+TW_CRYPTO_USE_SBIN_VOLD := qseecomd hwservicemanager keymaster-3-0
 
